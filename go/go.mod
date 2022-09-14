@@ -1,4 +1,4 @@
-module github.com/threefoldtech/tf-pinning-service/go
+module github.com/sameh-farouk/tf-pinning-service/go
 
 go 1.19
 
